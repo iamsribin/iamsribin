@@ -1,5 +1,5 @@
 
-[![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)]
+
 <h1 align="center">Hi 👋, I'm Sribin</h1>
 <h3 align="center">ML Enthusiasts! Currently exploring MERN stack.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif">
